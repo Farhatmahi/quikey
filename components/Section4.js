@@ -13,7 +13,7 @@ const Section4 = () => {
               In India, rising usage can largely be attributed to the falling
               cost of data usage. About three out of five Indian social media
               users felt that the usage of social media has made it easier to
-              manipulate people with fake news. Quickey on the other hand
+              manipulate people with fake news. quikey on the other hand
               provides you authentic and smartly shortened news.
             </p>
           </div>
